@@ -1,6 +1,5 @@
 import random
 
-endic='\033[35m'
 print("Welcome to Number Guessing Game!!!\n")
 print("Get ready....\n\n")
 print("You'll be having 3 chances for guessing the correct number \n")
