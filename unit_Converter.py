@@ -1,4 +1,3 @@
-# import math
 '''Unit Converter'''
 print("Unit Converter Program\nThis Unit Converter will perform following conversions:\n")
 print(
@@ -27,4 +26,4 @@ elif c == 8:
 else:
     res = unit / 1000
 
-print("{0} is converted to {1}\n".format(unit, res))
+print("\n{0} is converted to {1}\n".format(unit, res))
