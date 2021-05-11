@@ -11,6 +11,8 @@ def play():
     if (player == 'p' and computer == 'r') or (player == 's' and computer == 'p') or (
             player == 'r' and computer == 's'):
         return f"YOU WON!!!"
+    
+    return f"YOU LOST"
 
 
 print(play())
